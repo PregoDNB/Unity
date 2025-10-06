@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\regod\\documents\\djev\\school\\programeren\\2itproffesional\\aj2526-it-challenges-3-unity-pregodnb\\pong\\assets\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\assets\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:27:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Ball.cs",
+              "ToolTip": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Ball.cs",
+              "RelativeToolTip": "Assets\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:34:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Computer.cs",
+              "RelativeDocumentMoniker": "Assets\\Computer.cs",
+              "ToolTip": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Computer.cs",
+              "RelativeToolTip": "Assets\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:59:30.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Player1.cs",
+              "RelativeDocumentMoniker": "Assets\\Player1.cs",
+              "ToolTip": "C:\\Users\\regod\\Documents\\Djev\\School\\Programeren\\2ItProffesional\\aj2526-it-challenges-3-unity-PregoDNB\\Pong\\Assets\\Player1.cs",
+              "RelativeToolTip": "Assets\\Player1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:52:01.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
